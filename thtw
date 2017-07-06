@@ -6,49 +6,19 @@
     "keyword": "video lucu ketawa",
     "category": [
         {
-                "name": "Eni Sagita",
-                "keyword": "eni sagita hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/ItP_tFm_uwU/mqdefault.jpg"
-        },
-        {
-                "name": "Lia Capucino",
-                "keyword": "lia capucino hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/k_ozoShdX6g/mqdefault.jpg"
-        },
-        {
-                "name": "Nella Kharisma",
-                "keyword": "nella kharisma hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/HC99Y_6BA9A/mqdefault.jpg"
-        },
-        {
-                "name": "Uut Selly",
-                "keyword": "Uut Selly hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/yg7mPvz6bvo/mqdefault.jpg"
-        },
-        {
-                "name": "Sasha Aneska",
-                "keyword": "Sasha Aneska hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/pv6KsouKVZc/mqdefault.jpg"
-        },
-        {
-                "name": "Titin Kharisma",
-                "keyword": "Titin Kharisma hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/iPQW-8T7N78/mqdefault.jpg"
-        },
-        {
-                "name": "Ana Velisa",
-                "keyword": "Ana Velisa hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/FgLPbUuK5R0/mqdefault.jpg"
-        },
-        {
-                "name": "Mela Berbie",
-                "keyword": "Mela Berbie hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/_aLsHN5CwG0/mqdefault.jpg"
-        },
-        {
-                "name": "Lina Geboy",
-                "keyword": "Lina Geboy hot dangdut koplo",
-                "thumbnail": "http://img.youtube.com/vi/0JvAAZ-td3s/mqdefault.jpg"
-        }
+      "name": "video jahil lucu",
+      "keyword": "video jahil lucu",
+      "thumbnail": "http://img.youtube.com/vi/9FWX_S5Qm5g/mqdefault.jpg"
+    },
+    {
+      "name": "video hewan lucu",
+      "keyword": "video hewan lucu",
+      "thumbnail": "http://img.youtube.com/vi/tV5YvXBkvYU/mqdefault.jpg"
+    },
+    {
+      "name": "video lagu lucu",
+      "keyword": "video lagu lucu",
+      "thumbnail": "http://img.youtube.com/vi/XEVriGO8wEk/mqdefault.jpg"
+    }
     ]
 }
