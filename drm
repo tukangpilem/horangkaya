@@ -1,0 +1,30 @@
+{
+    'b': "Y2EtYXBwLXB1Yi01NTQwOTc0MDUyMTgzOTAxLzcxMDY1MTUwNzE=",
+    'i': "Y2EtYXBwLXB1Yi01NTQwOTc0MDUyMTgzOTAxLzg1ODMyNDgyNzg=",
+    'n': "Y2EtYXBwLXB1Yi01NTQwOTc0MDUyMTgzOTAxLzI1MzY3MTQ2Nzc=",
+    's': "MjA2MzE3NzI1",
+    'ads':false,
+    "keyword": "dangdut remix terbaru",
+    "category": [
+ {
+      "name": "dangdut remix terbaru",
+      "keyword": "dangdut remix terbaru",
+      "thumbnail": "http://img.youtube.com/vi/Yzh1QEbtYaY/mqdefault.jpg"
+    },
+    {
+      "name": "dangdut remix koplo",
+      "keyword": "dangdut remix koplo",
+      "thumbnail": "http://img.youtube.com/vi/UKj377FYuEk/mqdefault.jpg"
+    },
+    {
+      "name": "dangdut remix disco",
+      "keyword": "dangdut remix disco",
+      "thumbnail": "http://img.youtube.com/vi/Qmf_ZJHmxi0/mqdefault.jpg"
+    },
+    {
+      "name": "dangdut remix hits",
+      "keyword": "dangdut remix hits",
+      "thumbnail": "http://img.youtube.com/vi/NZpzX4aDrfI/mqdefault.jpg"
+    }
+    ]
+}
